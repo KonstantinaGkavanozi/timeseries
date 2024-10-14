@@ -1,2 +1,2 @@
 # timeseries
-A project developed during the academic course Timeseries in ECE Auth
+A project developed during the academic course Timeseries in Auth University
